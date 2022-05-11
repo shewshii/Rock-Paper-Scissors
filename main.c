@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int main()
-{
-    
-}
+// Rock Paper Scissors small projects developped in C
+// May 11th 2022
+
